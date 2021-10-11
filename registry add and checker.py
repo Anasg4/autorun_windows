@@ -52,6 +52,5 @@ if __name__ == "__main__":
     checkreg()
     # add the queryvalue in windows registry
     AddToRegistry()
-    # inject()
     print("Now Your App/software will auto running when windows turned on")
     sys.exit()
